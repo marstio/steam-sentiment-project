@@ -1,1 +1,4 @@
 data/
+
+/.agents
+__pycache__/
